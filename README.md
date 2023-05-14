@@ -13,7 +13,7 @@
   <img align="center" alt="Harlequin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
- ![Snake animation](https://github.com/caynnan1/caynnan1/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Harlequin90/Harlequin90/blob/output/github-contribution-grid-snake.svg)
  
 <!--
 **Harlequin90/Harlequin90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
