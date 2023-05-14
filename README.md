@@ -1,6 +1,6 @@
-### Olá! Eu me chamo Harlequin 👋
+### Olá! Eu me chamo Caynnan 👋
 
-🎓 Trabalho com front-end
+🎓 Programador Full Stacks
 
  <div>
   <a href="https://github.com/caynnan1">
